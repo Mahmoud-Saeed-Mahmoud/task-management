@@ -107,4 +107,4 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` file for more information (if applicable, otherwise state it's proprietary or other license).
+Distributed under the MIT License. See [LICENSE](LICENSE) file for more information (if applicable, otherwise state it's proprietary or other license).
